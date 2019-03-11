@@ -1,0 +1,47 @@
+.NavBar {
+    background-color: #5E6373;
+    color: #FAF4DC;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+
+}
+
+/* put my name on the left side */
+.NavBar-name {
+    /* display: flex; */
+    /* align-self: center; */
+    /* justify-content: flex-start;
+    color: black;
+    align-self: center;
+    padding-top: 6rem; */
+    padding-left: 1rem;
+    font-size: 3rem;
+    
+
+}
+
+.NavBar-buttons {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    padding: 1rem;
+
+}
+
+.github-logo, .linkedin-logo, .gmail-logo, .iphone-logo {
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem;
+}
+
+.a-tag {
+    color: #FAF4DC;
+    text-decoration: none;
+}
+
+.a-tag:visited {
+    color: #FAF4DC;
+    text-decoration: none;
+}

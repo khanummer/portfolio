@@ -1,0 +1,215 @@
+.Projects {
+    color: #FAF4DC;
+    background-color: #A2DBE2;
+    display: grid;
+    align-items: center;
+    justify-self: center;
+    grid-template-columns: 700px 700px;
+    grid-template-rows: 150px
+                        70px
+                        440px
+                        70px
+                        70px
+                        440px
+                        70px
+                        70px
+                        440px
+                        70px
+                        70px
+                        440px
+                        70px
+                        70px
+                        440px
+                        70px;
+    grid-template-areas:"title title"
+                         "connectfour-name connectfour-name" 
+                         "connectfour-img connectfour-text"
+                         "connectfour-buttons ."
+                         "fitty-name fitty-name"
+                         "fitty-img fitty-text"
+                         "fitty-buttons ."
+                         "relocater-name relocater-name"
+                         "relocater-img relocater-text"
+                         "relocater-buttons ."
+                         "project-4-name project-4-name"
+                         "project-4-img project-4-text"
+                         "project-4-buttons ."
+                         "project-5-name project-5-name"
+                         "project-5-img project-5-text"
+                         "project-5-buttons .";                        
+                        }
+
+
+.project-title {
+    justify-self: right;
+    /* font-family: 'VT323', monospace; */
+
+}
+
+/* add big images ( screenshots ) to the left / right */
+.project-buttons {
+    /* color: white; */
+    /* background-color: black;
+    border: 2px solid white;
+    margin: 1.3rem;
+    font-size: 1.3rem;
+    border-radius: 50% */
+    background-color: #5E6373;
+    color: #FAF4DC;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    padding: 7px 30px;
+    font-size: .8em;
+    font-weight: 500;
+    margin: 1rem;
+}
+
+.project-buttons:hover {
+    background-color: #5E6373;
+    color: #FF9E98;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    padding: 7px 30px;
+    font-size: .8em;
+    font-weight: 500;
+    margin: 1rem;  
+}
+
+
+.project-title {
+    color: #5E6373;
+}
+
+.project-2-img {
+    border: 1px solid hotpink;
+}
+
+.project-1-name, .project-2-name, .project-3-name, .project-4-name, .project-5-name {
+    text-align: right;
+    font-size: 3rem;
+    padding-top: 0rem;
+    background-color:#FF9E98;
+    color: #FAF4DC;
+    /* font-family: 'VT323', monospace; */
+
+
+}
+
+.project-1-img, .project-2-img, .project-3-img, .project-4-img, .project-5-img {
+    height: 25rem;
+    width: 43rem;
+    justify-self: center;
+}
+
+.project-1-text, .project-2-text, .project-3-text, .project-4-text, .project-5-text {
+    text-align: right;
+    color: #5E6373;
+    font-size: 1.3rem;
+}
+
+.project-1-buttons, .project-2-buttons, .project-3-buttons, .project-4-buttons, .project-5-buttons {
+    /* justify-self: right; */
+    justify-self: center;
+    /* padding-left: 3rem; */
+
+
+}
+.project-1-technologies, .project-2-technologies, .project-3-technologies, .project-4-technologies, .project-5-technologies {
+ font-size: 1.3rem;
+ color: #5E6373;
+ text-align: right;
+ margin-bottom: 5rem;
+ }
+
+.project-title {
+    grid-area: title;
+    font-size: 5rem;
+}
+
+.project-1-name {
+    grid-area: connectfour-name
+}
+
+.project-1-img {
+    grid-area: connectfour-img
+}
+
+.project-1-text {
+    grid-area: connectfour-text
+}
+
+.project-1-buttons {
+    grid-area: connectfour-buttons
+}
+
+
+
+.project-2-name {
+    grid-area: fitty-name
+}
+
+.project-2-img {
+    grid-area: fitty-img
+}
+
+.project-2-text {
+    grid-area: fitty-text
+}
+
+.project-2-buttons {
+    grid-area: fitty-buttons
+}
+
+
+
+.project-3-name {
+    grid-area: relocater-name
+}
+
+.project-3-img {
+    grid-area: relocater-img
+}
+
+.project-3-text {
+    grid-area: relocater-text
+}
+
+.project-3-buttons {
+    grid-area: relocater-buttons
+}
+
+
+
+.project-4-name {
+    grid-area: project-4-name
+}
+
+.project-4-img {
+    grid-area: project-4-img
+}
+
+.project-4-text {
+    grid-area: project-4-text
+}
+
+.project-4-buttons {
+    grid-area: project-4-buttons
+}
+
+.project-5-name {
+    grid-area: project-5-name
+}
+
+.project-5-img {
+    grid-area: project-5-img
+}
+
+.project-5-text {
+    grid-area: project-5-text
+}
+
+.project-5-buttons {
+    grid-area: project-5-buttons
+}

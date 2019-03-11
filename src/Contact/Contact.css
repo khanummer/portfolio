@@ -1,0 +1,44 @@
+.Contact {
+    color: #FAF4DC;
+    background-color: #5E6373;
+    text-align: right;
+    grid-template-columns: 720px 720px;
+    grid-template-rows: 100px 400px;
+    grid-template-areas: ". title"
+                         ". info"    
+    
+}
+
+
+
+
+.Contact-title {
+    grid-area: title;
+    font-size: 5rem;
+    text-align: right;
+    padding: 2rem;
+}
+
+.Contact-info {
+    grid-area: info;
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 1rem;
+    justify-self: right;
+    align-self: right;
+    text-align: left;
+    font-size: 2rem;
+}
+
+.Contact-single-info {
+    padding: 1rem;
+}
+
+.Contact-single-info-link {
+    padding: 1rem;
+}
+
+.Contact-single-info-link:hover {
+    padding: 1rem;
+    color:#FF9E98
+}

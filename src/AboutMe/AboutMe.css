@@ -1,0 +1,31 @@
+.AboutMe {
+    color: #3B3B3B;
+    background-color: #FF9E98;
+    display: grid;
+    grid-template-columns: 640px 800px;
+    grid-template-rows: 100px 324px;
+    grid-template-areas: "picture title" 
+                         "picture textt"; 
+
+}
+
+.AboutMe-pic {
+    grid-area: picture;
+}
+
+.AboutMe-text {
+    grid-area: textt;
+    text-align: center;
+    align-self: center;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.AboutMe-title {
+    grid-area: title;
+    font-size: 2rem;
+    text-align: center;
+    align-self: end;
+    
+
+}
