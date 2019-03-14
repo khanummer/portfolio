@@ -1,6 +1,8 @@
 .Projects {
     /* width: 200%; */
     /* width: auto; */
+    min-width: fit-content;
+    /* min-width: 100%; */
     color: #FAF4DC;
     background-color: #A2DBE2;
     /* background-size: contain; */

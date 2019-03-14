@@ -1,4 +1,5 @@
 .AboutMe {
+    min-width: fit-content;
     color: #3B3B3B;
     background-color: #FF9E98;
     display: grid;

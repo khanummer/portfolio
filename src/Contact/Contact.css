@@ -20,6 +20,8 @@
 }
 
 .Contact-info {
+    min-width: fit-content;
+    /* width: 100vw; */
     grid-area: info;
     display: flex;
     flex-flow: column nowrap;
