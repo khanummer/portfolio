@@ -57,7 +57,7 @@ class Projects extends Component {
             <a href="https://visual-mp5.herokuapp.com"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-5-text">VISUAL MP5 is a app for finding visuals to look at while listening to your favorite music. Users can search through Spotify for songs and a Youtube Video with interesting visuals to match that song will appear. Users can also create their own 'mashups' and vote on how good they are.</div>
-          <div className="project-5-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT </div>        
+          <div className="project-5-technologies">TECHNOLOGIES USED: HTML5| CSS | JAVASCRIPT | EXPRESS | EXPRESS-SESSION | MONGO | MONGOOSE | REACT | REACT-ROUTER | AXIOS | DOTENV | BCRYPT | CORS | LASTFM API | GIPHY API |HEROKU | MLAB </div>        
       
 
       </div>
