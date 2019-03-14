@@ -1,6 +1,9 @@
 .Projects {
+    /* width: 200%; */
+    /* width: auto; */
     color: #FAF4DC;
     background-color: #A2DBE2;
+    /* background-size: contain; */
     display: grid;
     align-items: center;
     justify-self: center;
@@ -72,7 +75,7 @@
     outline: none;
     border-radius: 25px;
     padding: 7px 30px;
-    font-size: .8em;
+    font-size: .9em;
     font-weight: 500;
     margin: 1rem;  
 }

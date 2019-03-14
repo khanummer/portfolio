@@ -54,7 +54,7 @@ class Projects extends Component {
           <div className="project-5-buttons">
             <a href="https://github.com/khanummer/visualmp5-express"><button className="project-buttons">EXPRESS GITHUB</button></a>
             <a href="https://github.com/khanummer/visualmp5-react"><button className="project-buttons">REACT GITHUB</button></a>
-            <a href="#"><button className="project-buttons">DEPLOYED LINK</button></a>
+            <a href="https://visual-mp5.herokuapp.com"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-5-text">VISUAL MP5 is a app for finding visuals to look at while listening to your favorite music. Users can search through Spotify for songs and a Youtube Video with interesting visuals to match that song will appear. Users can also create their own 'mashups' and vote on how good they are.</div>
           <div className="project-5-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT </div>        
