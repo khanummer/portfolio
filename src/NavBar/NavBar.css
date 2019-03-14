@@ -38,9 +38,15 @@
     padding: 1rem;
 }
 
-.a-tag {
+.NavBar-buttons .a-tag {
     color: #FAF4DC;
     text-decoration: none;
+    
+}
+.NavBar-buttons .a-tag:hover {
+    color: #FF9E98;
+    text-decoration: none;
+
 }
 
 .a-tag:visited {
