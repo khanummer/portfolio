@@ -57,7 +57,7 @@ class Projects extends Component {
             <a href="https://visual-mp5.herokuapp.com"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-5-text">V/SUALMP5 is an application for users to create 'mashups' of visuals and audio that go together well. Users can create there own mashups of Songs and GIFS and post for others to see.</div>
-          <div className="project-5-technologies">TECHNOLOGIES USED: HTML5| CSS | JAVASCRIPT | EXPRESS | EXPRESS-SESSION | MONGO | MONGOOSE | REACT | REACT-ROUTER | AXIOS | DOTENV | BCRYPT | CORS | LASTFM API | GIPHY API |HEROKU | MLAB </div>        
+          <div className="project-5-technologies">TECHNOLOGIES USED: HTML5 | CSS | JAVASCRIPT | EXPRESS | EXPRESS-SESSION | MONGO | MONGOOSE | REACT | REACT-ROUTER | AXIOS | DOTENV | BCRYPT | CORS | LASTFM API | GIPHY API |HEROKU | MLAB </div>        
       
 
       </div>
