@@ -38,10 +38,15 @@
     padding: 1rem;
 }
 
-.NavBar-buttons .a-tag {
+.a-tag {
     color: #FAF4DC;
     text-decoration: none;
     
+}
+.a-tag:hover {
+    color: #FF9E98;
+    text-decoration: none;
+
 }
 .NavBar-buttons .a-tag:hover {
     color: #FF9E98;
