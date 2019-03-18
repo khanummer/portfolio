@@ -17,7 +17,7 @@ class AboutMe extends Component {
 
         <div>
         TECHNICAL SKILLS :
-        HTML | CSS | Javascript | ReactJS | NodeJS | Python | Express | MongoDB | Mongoose | Flask | FlexBox | CSS Grid | Git | GitHub | jQuery | Terminal | Nano | Heroku | Postman | Axios | API's |  Microsoft Office | Google Suite | 
+        HTML | CSS | Javascript | ReactJS | NodeJS | Python | Express | MongoDB | Mongoose | Flask | GraphQL | FlexBox | CSS Grid | Git | GitHub | jQuery | Terminal | Nano | Heroku | Postman | Axios | API's |  Microsoft Office | Google Suite | 
         </div>
 
         </div>
