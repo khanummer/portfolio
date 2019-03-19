@@ -15,7 +15,7 @@ class Projects extends Component {
             <a href="https://khanummer.github.io/ConnectFour/"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-1-text">Connect Four is a game where two players compete to create a sequence of four discs in a row either horizontally, vertically, or diagonally. I styled this game with a Takashi Murakami theme in mind from the background, the font, and the game pieces. Click on the "Change Arena" button near the bottom for a suprise.</div>
-          <div className="project-1-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT </div>
+          <div className="project-1-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT | NODEJS | MONGODB | MONGOOSE | EXPRESS | HEROKU</div>
         
 
           <div className="project-2-name">FITTY</div>
@@ -25,7 +25,7 @@ class Projects extends Component {
             <a href="https://fittyapp.herokuapp.com"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-2-text">FITTY is a social media app designed for people into fashion / streetwear culture to post pieces they enjoy and comment on others posts. I themed this app in a minimalistic and hand drawn / messy look. </div>
-          <div className="project-3-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT | NODEJS | MONGODB | MONGOOSE | EXPRESS | HEROKU </div>        
+          <div className="project-3-technologies">TECHNOLOGIES USED: HTML5 | CSS | JAVASCRIPT | EXPRESS | EXPRESS-SESSION | MONGO | MONGOOSE | REACT | REACT-ROUTER | AXIOS | DOTENV | BCRYPT | CORS | LASTFM API | GIPHY API |HEROKU | MLAB</div>        
         
           <div className="project-3-name">RELOACTER</div>
           <img className="project-3-img" src="../../imgs/relocater-big-img.png"/>
@@ -45,7 +45,7 @@ class Projects extends Component {
             <a href="https://memescheme.herokuapp.com"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-4-text">MemeScheme is a meme generator website. The website is styled to be a meme itself, from the font to the wacky colors everywhere.</div>
-          <div className="project-4-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT | PYTHON | FLASK | REACT | PEEWEE | SQLITE | GUNICORN </div>  
+          <div className="project-4-technologies">TECHNOLOGIES USED: HTML | CSS | JAVASCRIPT </div>  
 
 
           <div className="project-5-name">VISUAL MP5</div>
@@ -56,7 +56,7 @@ class Projects extends Component {
             <a href="https://visual-mp5.herokuapp.com"><button className="project-buttons">DEPLOYED LINK</button></a>
           </div>
           <div className="project-5-text">V/SUALMP5 is an application for users to create 'mashups' of visuals and audio that go together well. Users can create there own mashups of Songs and GIFS and post for others to see.</div>
-          <div className="project-5-technologies"> TECHNOLOGIES USED: HTML5 | CSS | JAVASCRIPT | EXPRESS | EXPRESS-SESSION | MONGO | MONGOOSE | REACT | REACT-ROUTER | AXIOS | DOTENV | BCRYPT | CORS | LASTFM API | GIPHY API |HEROKU | MLAB </div>        
+          <div className="project-5-technologies">  HTML | CSS | JAVASCRIPT | PYTHON | FLASK | REACT | PEEWEE | SQLITE | GUNICORN</div>        
       
 
       </div>
