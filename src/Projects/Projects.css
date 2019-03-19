@@ -27,21 +27,21 @@
                         440px
                         70px;
     grid-template-areas:"title title"
-                         "connectfour-name connectfour-name" 
-                         "connectfour-img connectfour-text"
-                         "connectfour-buttons ."
-                         "fitty-name fitty-name"
-                         "fitty-img fitty-text"
-                         "fitty-buttons ."
-                         "relocater-name relocater-name"
-                         "relocater-img relocater-text"
-                         "relocater-buttons ."
-                         "project-4-name project-4-name"
-                         "project-4-img project-4-text"
-                         "project-4-buttons ."
-                         "project-5-name project-5-name"
-                         "project-5-img project-5-text"
-                         "project-5-buttons .";                        
+                        "fitty-name fitty-name"
+                        "fitty-img fitty-text"
+                        "fitty-buttons ."
+                        "project-5-name project-5-name"
+                        "project-5-img project-5-text"
+                        "project-5-buttons ."                       
+                        "relocater-name relocater-name"
+                        "relocater-img relocater-text"
+                        "relocater-buttons ."
+                        "connectfour-name connectfour-name" 
+                        "connectfour-img connectfour-text"
+                        "connectfour-buttons ."
+                        "project-4-name project-4-name"
+                        "project-4-img project-4-text"
+                        "project-4-buttons .";
                         }
 
 
