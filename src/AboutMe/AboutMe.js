@@ -5,7 +5,7 @@ class AboutMe extends Component {
   render() {
     return (
       <div className="AboutMe">
-        <img src="../../imgs/animated.GIF" className="AboutMe-pic"/>
+        <img src="../../imgs/animated.GIF" alt="1" className="AboutMe-pic"/>
         <div className="AboutMe-title">HEY THERE</div>
         <div className="AboutMe-text">
         <div>Welcome to my portfolio, I am a junior web developer / software engineer who specializes in the MERN Stack. I am a creative at heart who enjoys all mediums.</div>

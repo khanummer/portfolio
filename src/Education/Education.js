@@ -11,7 +11,7 @@ class Education extends Component {
           </div>
 
           <div className="General-Assembly">
-            <div><a href="https://generalassemb.ly/"><img className="ga-img"src="../../imgs/ga-logo.png"/></a></div>
+            <div><a href="https://generalassemb.ly/"><img className="ga-img"src="../../imgs/ga-logo.png" alt="1"/></a></div>
           </div>
             <div className="ga-text">
               <ul>
