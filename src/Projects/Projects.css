@@ -39,11 +39,14 @@
                         }
 
 
+
 .project-title {
     justify-self: right;
     /* font-family: 'VT323', monospace; */
 
 }
+
+
 
 /* add big images ( screenshots ) to the left / right */
 .project-buttons {
